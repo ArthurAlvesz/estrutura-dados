@@ -40,14 +40,7 @@ int main(int argc, char* argv[]) {
     lista_liberar(lista);
 
 
-    /*
-    CONCLUSÃO: 
-    Para a lista ordernada, foram necessários 1 hora, 41 segundos e 61 miléssimos.
-    Para a lista não ordernada, foram necessários 8 minutos, 16 segundos e 71 miléssimos. 
-
-
-    OBS: arreguei e precisei da ajuda do chat gpt para a implementação.
-    */
+    
 
     return 0;
 }
